@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Richard Yan</h1>
 👋 Hi, I’m an experienced Software Engineer in Web3 & AI
 
-With 8 years of software development experience and a Master’s degree in Software Engineering, I specialize in building full-stack applications across Web2 and Web3.
+With 10 years of software development experience and a Master’s degree in Software Engineering, I specialize in building full-stack applications across Web2 and Web3.
 
-Over the past 4 years, I’ve focused on Web3 development:
+Over the past 6 years, I’ve focused on Web3 development:
 - 🕹 Built full-stack Solana games (wallets, state management, backend APIs)
 - 🔗 Developed NFT apps, DEXs, and TON-based projects
 - 🧩 Skilled in smart contract integration & on-chain interactions
