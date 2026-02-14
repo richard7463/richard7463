@@ -16,7 +16,7 @@ Previously, I independently delivered an AIGC app (frontend, backend, and core l
 
 Let’s build the future — smarter, faster, and decentralized.
 
-<h3 align="center">A passionate full-stack developer from China</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richard4763&label=Profile%20views&color=0e75b6&style=flat" alt="richard4763" /> </p>
 
@@ -25,8 +25,6 @@ Let’s build the future — smarter, faster, and decentralized.
 - 🔭 I’m currently working on **Web3, AI AGENT**
 
 - 💬 Ask me about **Web3, Solana, AI AGENT**
-
-- 📫 How to reach me **ritsu.yan@foxmail.com**
 
 - ⚡ Fun fact **I have 8 years software experiences with full-stack**
 
