@@ -1,40 +1,72 @@
-<h1 align="center">Hi 👋, I'm Richard Yan</h1>
-👋 Hi, I’m an experienced Software Engineer in Web3 & AI
-
-With 10 years of software development experience and a Master’s degree in Software Engineering, I specialize in building full-stack applications across Web2 and Web3.
-
-Over the past 6 years, I’ve focused on Web3 development:
-- 🕹 Built full-stack Solana games (wallets, state management, backend APIs)
-- 🔗 Developed NFT apps, DEXs, and TON-based projects
-- 🧩 Skilled in smart contract integration & on-chain interactions
-
-I’m also actively working in the AI x Web3 space:
-- 🤖 Building AI Agents using **LangChain**, **LLMs**, and autonomous workflows
-- ⚙️ Experience with task orchestration, plugin systems, and AI-driven DeFi operations
-
-Previously, I independently delivered an AIGC app (frontend, backend, and core logic).
-
-Let’s build the future — smarter, faster, and decentralized.
-
-<h3 align="center">A passionate full-stack developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=richard4763&label=Profile%20views&color=0e75b6&style=flat" alt="richard4763" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richard4763" alt="richard4763" /></a> </p>
-
-- 🔭 I’m currently working on **Web3, AI AGENT**
-
-- 💬 Ask me about **Web3, Solana, AI AGENT**
-
-- ⚡ Fun fact **I have 8 years software experiences with full-stack**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://ai2human.io">
+    <img alt="AI2Human" src="https://img.shields.io/badge/AI2Human-Network-67E8F9?style=for-the-badge&labelColor=05070F">
+  </a>
+  <a href="https://github.com/ai2humannetwork">
+    <img alt="GitHub Org" src="https://img.shields.io/badge/GitHub-ai2humannetwork-8B7CFF?style=for-the-badge&labelColor=05070F">
+  </a>
+  <a href="https://x.com/ai2humannetwork">
+    <img alt="X" src="https://img.shields.io/badge/X-@ai2humannetwork-FFB56B?style=for-the-badge&labelColor=05070F">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<h1 align="center">Richard Yan</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritsuyan&show_icons=true&locale=en&layout=compact" alt="richard4763" /></p>
+<h3 align="center">Building AI2Human Network — the execution and verification layer for the agent economy.</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritsuyan&" alt="richard4763" /></p>
+<p align="center">
+  Agents request work. Humans execute or verify. Proof is structured. Verification gates settlement.
+</p>
+
+```text
+agent request -> human execution / verification -> structured proof -> verify -> settle
+```
+
+## Current Work
+
+I am focused on **AI2Human Network**, a system for turning human-needed steps into callable infrastructure for agents, protocols, token issuers, and onchain applications.
+
+The core problem is simple:
+
+> AI agents can plan and automate software-native workflows, but many real workflows still need verified human execution, evidence, review, and settlement.
+
+AI2Human is building that missing layer.
+
+## Public Architecture
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ai2humannetwork/.github/main/profile/assets/ai2human-network-final-architecture-20260622.png" alt="AI2Human Network architecture" width="100%" />
+</p>
+
+## AI2Human Network Repos
+
+| Repo | Layer |
+| --- | --- |
+| [`ai2human-protocol`](https://github.com/ai2humannetwork/ai2human-protocol) | Request manifests, proof specs, verification results, settlement events, task state machines |
+| [`ai2human-skills`](https://github.com/ai2humannetwork/ai2human-skills) | Agent-readable skills, manifests, task templates, OpenClaw test paths |
+| [`ai2human-proof-kit`](https://github.com/ai2humannetwork/ai2human-proof-kit) | Structured proof schemas, proof bundle examples, verification outputs |
+| [`ai2human-settlement-contracts`](https://github.com/ai2humannetwork/ai2human-settlement-contracts) | Base USDC prize pools, verified reward settlement, payout flows |
+| [`ai2human-b20-gateway`](https://github.com/ai2humannetwork/ai2human-b20-gateway) | B20 token rules connected with AI2Human human verification |
+
+## What I Am Building Next
+
+- **AI2Human X Bot**: tweet a task, route a human, verify proof, settle onchain
+- **Agent Skills**: allow agents to create campaigns, request verification, and monitor settlement
+- **B20 Skills**: generate B20 token policy plans with human proof requirements
+- **Proof Kit**: make human output machine-readable and reviewable
+- **Settlement Rails**: Base USDC prize pools, escrow, claims, refunds, and payout records
+
+## Technical Focus
+
+- AI agents and skill runtimes
+- Structured proof and verification workflows
+- Base / USDC settlement
+- B20, RWA, and compliance proof gateways
+- Next.js, TypeScript, Solidity, EVM integrations
+
+## Links
+
+- AI2Human: [ai2human.io](https://ai2human.io)
+- GitHub org: [ai2humannetwork](https://github.com/ai2humannetwork)
+- X: [@ai2humannetwork](https://x.com/ai2humannetwork)
+
